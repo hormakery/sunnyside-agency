@@ -45,6 +45,7 @@ transition: 0.5s all ease-in-out;
 
 @media screen and (max-width: 768px){
     padding: 0 3rem;
+    margin-bottom: 3rem;
 }
 
 `
