@@ -135,7 +135,7 @@ transition: .15s all ease-in-out;
 `
 
 export const List=styled.li`
-
+color: #fff;
 margin: 0 1rem;
 text-decoration: none;
 list-style-type: none;
@@ -247,8 +247,22 @@ transition: all .22s ease-in-out;
 `
 
 export const Arrowimage=styled.img`
-top: -400px;
-position: relative;
-transform: translateY(453.069px)
+// transform: translateY(453.069px);
 `
+
+export const Figure=styled.div`
+top: -50px;
+position: relative;
+background-repeat: no-repeat;
+background-position: center;
+
+
+
+
+// @media screen and (max-width: 600px){
+//   margin: 0;
+// }
+`
+
+// style={{transform: 'translateY(-453.069px)'}}
 

@@ -6,6 +6,7 @@ import {
     List,
     Title,
     Header,
+    Figure,
     NavMenu,
     Maxwidth,
     NavWrapper,
@@ -60,9 +61,9 @@ const Navbar = () => {
 
     <HeaderSection>
         <Title>We are creative</Title>
-        <picture>
-        <Arrowimage src='../image/icon-arrow-down.svg' alt='arrow down'  className='header-arrow' />
-        </picture>
+        <Figure>
+        <Arrowimage src='../images/icon-arrow-down.svg' alt='arrow down'  className='header-arrow'  />
+        </Figure>
     </HeaderSection>
     </Header>
     </Maxwidth>
