@@ -391,7 +391,7 @@ flex-direction: column;
 `
 
 export const Quote=styled.blockquote`
-color: #2c6b85;
+color: #2a3140;
 font-size: 1.13rem;
 line-height: 2rem;
 `
