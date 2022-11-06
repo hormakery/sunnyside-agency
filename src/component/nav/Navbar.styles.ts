@@ -251,7 +251,7 @@ export const Arrowimage=styled.img`
 `
 
 export const Figure=styled.div`
-top: -50px;
+top: -1rem;
 position: relative;
 background-repeat: no-repeat;
 background-position: center;
